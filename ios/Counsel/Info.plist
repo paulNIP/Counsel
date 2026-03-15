@@ -47,6 +47,15 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
+
+	<key>UIAppFonts</key>
+	<array>
+	<string>MaterialCommunityIcons.ttf</string>
+	<string>FontAwesome.ttf</string>
+	<!-- Add other icon fonts as needed -->
+	</array>
+
+
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
